@@ -1,6 +1,6 @@
 # PiNaira Nexus (Bank)
 
-Welcome to **PiNaira Nexus (Bank)**—the most reliable and trustworthy Pi-powered bank in the [efenexus.pi ecosystem](https://apppinairabank8404.pinet.com)! Power your π with seamless savings, borrowing, and trading at an exclusive rate of $314,159/π for [@EfePiCrew](https://github.com/EfePiCrew) members. Secure your wallet, access your Pi card, and shop effortlessly at [@efenexuspi](https://efenexuspi3192.pinet.com)—all designed for easy, frictionless Pi transactions.
+Welcome to **PiNaira Nexus (Bank)**—the most reliable and trustworthy Pi-powered bank in the [efenexus.pi ecosystem](https://apppinairabank8404.pinet.com)! Power your π with seamless savings, borrowing, and trading at an exclusive rate of $314,159/π for [@EfePiCrew](https://github.com/efenexuspi/EfePiCrew)) members. Secure your wallet, access your Pi card, and shop effortlessly at [@efenexuspi](https://efenexuspi3192.pinet.com)—all designed for easy, frictionless Pi transactions.
 
 Built on the innovative Pi Network, PiNaira Nexus combines cutting-edge blockchain security with user-friendly tools to help you build wealth, one π at a time. Join thousands of Pioneers already thriving in efenexus.pi!
 
